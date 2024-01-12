@@ -1,5 +1,5 @@
 <h2 align="center"> <a href="https://github.com/nazmul-karim170/CNLL-Continual_Learning_Noisy_Labels">CNLL: A Semi-Supervised Approach for Continual Learning with Noisy Labels </a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.  </h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest updates.  </h2>
 
 <h5 align="center">
 
